@@ -1,1 +1,2 @@
 A GUI based invoice generator which calculates sales and taxes that prints a text file with all added input by the user where one can add the company's name, description of the sales and quantity and price of the said products and which calculate the given subtotal with the total after the Tax have been completed
+done and made individually
